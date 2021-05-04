@@ -1,0 +1,52 @@
+body {
+  background-color: #9fbdf1;
+  margin-top: 50px;
+}
+
+.input-group {
+  padding: auto auto 100px;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Inconsolata", monospace;
+}
+
+h1 {
+  font-weight: bolder;
+  font-size: 48px;
+}
+
+p {
+  margin: 0px;
+}
+
+h3 {
+  font-size: 220px;
+  text-align: center;
+  margin: 0;
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.card {
+  border-radius: 5px;
+}
+
+.card-body {
+  margin-left: 20px;
+}
+
+.card-days {
+  text-align: center;
+  background-color: white;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 50px auto;
+}
+
+#today-temp {
+  font-size: 38px;
+  font-weight: 300;
+}
